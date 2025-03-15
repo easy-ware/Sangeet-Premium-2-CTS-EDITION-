@@ -120,7 +120,7 @@ DB_PATH="database_files"               # Path to database files
 admin_pass="your_secure_password"      # Admin password for authentication
 ```
 
-5. **Run the application**
+4. **Run the application**
 Start Redis:
 ```bash
 docker compose -f redis.yaml up 
